@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">death thing2</string>
+    <string name="lower">Your guess is Lower</string>
+    <string name="Higher">Your guess is higher</string>
+    <string name="Correct">Correct. New age generated</string>
+    <string name="button_one">Confirm</string>
+    <string name="Input1">Enter Age</string>
+</resources>
